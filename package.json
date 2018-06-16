@@ -4,6 +4,7 @@
     "author": "yanxianliang",
     "description": "A react component for image width lazyload",
     "license": "MIT",
+    "keywords":["react","image","lazyload"],
     "engines": {
         "node": ">=6"
     },
