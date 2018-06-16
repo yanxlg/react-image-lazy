@@ -1,8 +1,8 @@
 {
     "name": "react-image-lazy",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "author": "yanxianliang",
-    "description": "A react component for image width lazyload",
+    "description": "A react component for image to support lazyload",
     "license": "MIT",
     "keywords":["react","image","lazyload"],
     "engines": {
