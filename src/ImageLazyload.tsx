@@ -31,6 +31,7 @@ class ImageLazyload extends React.Component<IImageLazyloadProps>{
         const beforeSrc=this.props.src;
         const {src} = nextProps;
         if(beforeSrc!!==src){
+            this._image.removeEventListener("load",this.onLoad);
             this._image.addEventListener("load",this.onLoad);
             this._image.src=src||"";
         }

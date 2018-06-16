@@ -1,6 +1,6 @@
 {
     "name": "react-image-lazy",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "yanxianliang",
     "description": "A react component for image width lazyload",
     "license": "MIT",
